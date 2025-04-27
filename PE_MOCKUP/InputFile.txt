@@ -1,0 +1,5 @@
+B4 25 30 false
+B1 5 10 true
+B2 50 70.0 true
+B3 35 100.0 true
+B10 25 50.0 false
